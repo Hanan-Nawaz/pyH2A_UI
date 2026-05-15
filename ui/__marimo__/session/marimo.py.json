@@ -1,0 +1,60 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.6",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "dda5e750355a0896de6c7943ef96063d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "f9c7cc29f7335b57e7ca42f886886267",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "aab9e1de16f38176f86d7a92ba337a8d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='vblA-0' random-id='04328c0f-534d-571f-30d7-1831a29a85d0'><marimo-dataframe data-initial-value='{&quot;transforms&quot;:[]}' data-label='null' data-columns='[[&quot;Name&quot;,&quot;string&quot;,&quot;str&quot;],[&quot;Type&quot;,&quot;string&quot;,&quot;str&quot;],[&quot;Description&quot;,&quot;string&quot;,&quot;str&quot;]]' data-dataframe-name='&quot;df&quot;' data-total='3' data-page-size='5' data-show-download='true' data-download-json-ensure-ascii='true' data-lazy='false'></marimo-dataframe></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PnlC",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
